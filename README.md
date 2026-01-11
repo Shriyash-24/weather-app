@@ -50,7 +50,7 @@ pip install requests
 Simply run the Python script:
 
 ```bash
-python weather-app.py
+python Weather-App.py
 ```
 
 ## 🎯 How to Use
