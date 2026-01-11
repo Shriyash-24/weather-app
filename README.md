@@ -2,8 +2,7 @@
 
 A beautiful, user-friendly Python desktop application that displays real-time weather data with automatic location detection.
 
-![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Screenshot](https://ibb.co/v0YGc0W)
 
 ## ✨ Features
 
@@ -37,7 +36,7 @@ The app displays:
 
 1. **Clone the repository** (or download the files)
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Shriyash-24/weather-app.git
 cd weather-app
 ```
 
@@ -51,7 +50,7 @@ pip install requests
 Simply run the Python script:
 
 ```bash
-python weather_app.py
+python weather-app.py
 ```
 
 ## 🎯 How to Use
@@ -92,28 +91,6 @@ python weather_app.py
 - **Requests** - HTTP library for API calls
 - **Threading** - Non-blocking API requests
 
-### Project Structure
-
-```
-weather-app/
-│
-├── weather_app.py          # Main application file
-├── README.md               # Project documentation
-└── requirements.txt        # Python dependencies (optional)
-```
-
-## 📦 Dependencies
-
-Create a `requirements.txt` file:
-
-```
-requests>=2.28.0
-```
-
-Install with:
-```bash
-pip install -r requirements.txt
-```
 
 ## 🎨 Features Breakdown
 
@@ -189,21 +166,6 @@ self.root.geometry("600x800")  # Width x Height
 ```bash
 pip install --upgrade requests
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Here are some ideas:
-
-- Add temperature unit toggle (Celsius/Fahrenheit)
-- Implement 5-day forecast
-- Add weather icons
-- Save favorite locations
-- Add notification system
-- Dark/Light theme toggle
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
