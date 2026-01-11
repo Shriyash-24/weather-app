@@ -2,7 +2,6 @@
 
 A beautiful, user-friendly Python desktop application that displays real-time weather data with automatic location detection.
 
-![Screenshot](https://ibb.co/v0YGc0W)
 
 ## ✨ Features
 
@@ -15,6 +14,7 @@ A beautiful, user-friendly Python desktop application that displays real-time we
 - 🖥️ **Cross-Platform** - Works on Windows, macOS, and Linux
 
 ## 📸 Screenshot
+<img width="784" height="980" alt="Screenshot 2026-01-11 212428" src="https://github.com/user-attachments/assets/2d41ef71-eab1-4a13-b571-7227c18bd745" />
 
 The app displays:
 - Current temperature and weather conditions
